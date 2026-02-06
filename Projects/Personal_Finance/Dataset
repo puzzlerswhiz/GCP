@@ -1,1 +1,44 @@
+✅ 1. Indian Personal Finance and Spending Habits
 
+📊 ~20,000 records
+Contains detailed income, expenses, savings, demographics for individuals. Great for analytics, segmentation, trend analysis, BI dashboards.
+
+👉 Download from Kaggle:
+https://www.kaggle.com/datasets/shriyashjagtap/indian-personal-finance-and-spending-habits
+
+✅ 2. Personal Budget Transactions Dataset
+
+Includes transaction records across categories like restaurants, markets, coffee, etc.
+Good for transaction analytics, category modeling, forecasting.
+
+👉 Kaggle link:
+https://www.kaggle.com/datasets/ismetsemedov/personal-budget-transactions-dataset
+
+✅ 3. Expenses_2024
+
+Comprehensive personal transactions of income + expenses across categories — suited for BI + ML forecasting.
+
+👉 Kaggle download:
+https://www.kaggle.com/datasets/jg7fujhfydhgc/expenses-2024
+
+✅ 4. Financial Transactions Dataset (simulated)
+
+Contains transaction history with timestamps, amounts, merchant details — useful for trend analytics and fraud modeling.
+
+👉 Kaggle:
+https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
+
+✅ 5. Personal Finance Dataset (Income + Expenses)
+
+Includes structured financial data that you can use for clustering, prediction, and visualization.
+
+👉 Kaggle URL:
+https://www.kaggle.com/datasets/ramyapintchy/personal-finance-data
+
+🔎 BONUS (GitHub Open Dataset)
+📌 Indian Personal Finance and Spending Habits — GitHub version
+
+This dataset has ~20,000 individual financial profiles (income, rent, utilities, groceries, transport, savings, etc.).
+
+👉 GitHub link:
+https://github.com/Arif-miad/Indian-Personal-Finance-and-Spending-Habits
